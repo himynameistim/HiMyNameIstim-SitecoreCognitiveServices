@@ -12,7 +12,7 @@ namespace HiMyNameIstim_SitecoreCognitiveServices
     public class CognitiveServicesHelper
     {
         //TODO: Get <Subscription Key> from Sitecore settings item.
-        const string subscriptionKey = "b0e316ed75164b9da70aa01f35b65b89";
+        const string subscriptionKey = "";
 
         //TODO: Get uri base from Sitecore settings item
         const string uriBase = "https://westcentralus.api.cognitive.microsoft.com/vision/v2.0/analyze";
